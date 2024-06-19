@@ -214,6 +214,17 @@ footer p {
     font-size: 1em;
 }
 
+footer a {
+    color: #ff6f61;
+    text-decoration: none;
+    margin-top: 10px;
+    display: block;
+}
+
+footer a:hover {
+    color: #e55a50;
+}
+
 /* Animations */
 @keyframes fadeIn {
     from {
