@@ -14,7 +14,7 @@ body {
 }
 
 .silly {
-  color: #000;
+    color: #000;
 }
 
 header {
@@ -223,6 +223,32 @@ footer a {
 
 footer a:hover {
     color: #e55a50;
+}
+
+/* Terms of Service (TOS) Page */
+.tos-content {
+    padding: 6em 0;
+    text-align: center;
+    background-color: #fff;
+}
+
+.tos-content h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.tos-content p {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+
+.tos-content .highlight {
+    color: #ff6f61;
+    font-weight: bold;
+}
+
+.tos-content .important {
+    font-weight: bold;
 }
 
 /* Animations */
