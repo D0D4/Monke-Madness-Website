@@ -228,7 +228,7 @@ footer a:hover {
 /* Terms of Service (TOS) Page */
 .tos-content {
     padding: 6em 0;
-    text-align: center;
+    text-align: left;
     background-color: #fff;
 }
 
@@ -240,6 +240,16 @@ footer a:hover {
 .tos-content p {
     font-size: 1.2em;
     margin-bottom: 1em;
+    text-align: left;
+}
+
+.tos-content ul {
+    text-align: left;
+}
+
+.tos-content ul li {
+    font-size: 1em;
+    margin-bottom: 0.5em;
 }
 
 .tos-content .highlight {
